@@ -2,7 +2,7 @@
   "name": "react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://RuslanNegoda1989Arjuna.github.io/react-homework-template/",
+  "homepage": "https://RuslanNegoda1989Arjuna.github.io/react-template/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
