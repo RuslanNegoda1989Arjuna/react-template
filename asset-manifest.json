@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RuslanNegoda1989Arjuna/react-template.git/static/css/main.7acaea2f.css",
+    "main.js": "/RuslanNegoda1989Arjuna/react-template.git/static/js/main.197728b3.js",
+    "index.html": "/RuslanNegoda1989Arjuna/react-template.git/index.html",
+    "main.7acaea2f.css.map": "/RuslanNegoda1989Arjuna/react-template.git/static/css/main.7acaea2f.css.map",
+    "main.197728b3.js.map": "/RuslanNegoda1989Arjuna/react-template.git/static/js/main.197728b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.197728b3.js"
+  ]
+}
