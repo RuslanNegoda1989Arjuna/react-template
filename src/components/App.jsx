@@ -10,7 +10,6 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      <button> Click to Hello</button>
       React template
     </div>
   );
